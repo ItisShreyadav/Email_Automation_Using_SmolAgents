@@ -2,7 +2,7 @@
 I tried to build a small email automation using SmolAgent(framework).
 •	Created a fake Gmail account for testing.
 •	The system  uses IMAP to fetch new emails from this account.(IMAP (Internet Message Access Protocol) as a high-tech "remote control" for your mailbox.)
-•	If the email looks like a customer support email (for example: contains words like help, issue, problem), then the system should automatically send a reply (like “Thank you, we’ll get back to you soon”).
+•	If the email looks like a customer support email , then the system should automatically send a reply (like “Thank you, we’ll get back to you soon”).
 
 Also added the .env file with all necessary credentials to access mail and sending replies.
 
